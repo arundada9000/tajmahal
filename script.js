@@ -1,7 +1,7 @@
 // ===========================
 // PERSONALIZATION VARIABLES
 // ===========================
-let PERSON_NAME = "Pooja";
+let PERSON_NAME = "Pooju";
 let PERSONAL_QUOTE = `“You are my moonlight, ${PERSON_NAME}... and my forever.”`;
 let PHOTO_URL = "./assets/image1.jpg";
 const QUOTES = [

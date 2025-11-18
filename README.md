@@ -4,7 +4,7 @@ A digital monument created to celebrate **endless love**.
 
 _The hardest things to express are love and infinity. So I coded them both. ❤️_
 
-This interactive 3D web experience features a sculpted Taj Mahal in an infinite, starlit space, personalized with your loved one's name. Inspired by the dedication of Ustad Ahmad Lahori to Mumtaz Mahal, this project is a modern, digital testament to your devotion.
+This interactive 3D web experience features a sculpted Taj Mahal in an infinite, starlit space, personalized with your loved one's name. Inspired by the dedication Shah Jahan to Mumtaz Mahal, this project is a modern, digital testament to your devotion.
 
 ## 🚀 Live Demo
 
@@ -103,7 +103,7 @@ _Crafted with a whole lot of feelings, and designed for endless contemplation. J
 
 - **Creator:** **Arun Neupane**
 - **Educational Source:** This project was developed for **educational purposes** on the **Code With Ease** YouTube channel.
-- **Tutorial:** **[Watch the full tutorial on YouTube]()**
+- **Tutorial:** **[Watch the full tutorial on YouTube](https://youtu.be/7KCuwz16qAU)**
 - **Channel:** **[Code With Ease Channel](https://youtube.com/@arundada9000)**
 
 ---
