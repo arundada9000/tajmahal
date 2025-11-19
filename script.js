@@ -307,3 +307,16 @@ window.addEventListener("resize", () => {
   camera.updateProjectionMatrix();
   renderer.setSize(window.innerWidth, window.innerHeight);
 });
+
+/**
+ * ========================================================
+ * 🚀 TAJ MAHAL: A MONUMENT OF LOVE (MAIN SCRIPT LOGIC)
+ * * Author: Arun Neupane
+ * * * This script handles the Three.js scene setup, 3D model loading,
+ * * personalized name sculpting, and the interactive quote system.
+ * * Personal Note: The hardest things to express are love and infinity. So I coded them both. ❤️
+ * * Find the full tutorial and more projects on the Code With Ease YouTube Channel:
+ * Channel Link: https://youtube.com/@arundada9000
+ * Tutorial Link: https://youtu.be/7KCuwz16qAU
+ * * ========================================================
+ */
