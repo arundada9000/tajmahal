@@ -1,14 +1,14 @@
-# Taj Mahal : A Monument of Love ❤️🏛️
+﻿# Taj Mahal : A Monument of Love ❤
 
 A digital monument created to celebrate **endless love**.
 
-_The hardest things to express are love and infinity. So I coded them both. ❤️_
+_The hardest things to express are love and infinity. So I coded them both. ❤_
 
 This interactive 3D web experience features a sculpted Taj Mahal in an infinite, starlit space, personalized with your loved one's name. Inspired by the dedication Shah Jahan to Mumtaz Mahal, this project is a modern, digital testament to your devotion.
 
-## 🚀 Live Demo
+##  Live Demo
 
-[🎬 Launch the Monument](https://arundada9000.github.io/tajmahal/)
+[ Launch the Monument](https://arundada9000.github.io/tajmahal/)
 
 ---
 
@@ -24,7 +24,7 @@ This interactive 3D web experience features a sculpted Taj Mahal in an infinite,
 
 ---
 
-## 💻 Desktop Preview
+##  Desktop Preview
 
 <img src="./preview/preview1.png">
 <img src="./preview/preview2.png">
@@ -32,7 +32,7 @@ This interactive 3D web experience features a sculpted Taj Mahal in an infinite,
 
 ---
 
-## 📱 Mobile Preview
+##  Mobile Preview
 
 <p align="center">
 <img src="./preview/mobile-preview1.png" height="400">
@@ -43,11 +43,11 @@ This interactive 3D web experience features a sculpted Taj Mahal in an infinite,
 
 ---
 
-## 🛠️ How to Customize It
+##  How to Customize It
 
 You can easily personalize this monument for your own love story by making small changes in the main script file.
 
-### 💖 1. Change the Name
+###  1. Change the Name
 
 1. First of all inside the index.html file search for any name with Pooja and replace it with your own.
 
@@ -58,7 +58,7 @@ You can easily personalize this monument for your own love story by making small
 
 ---
 
-### 💞 2. Add or Remove Quotes
+###  2. Add or Remove Quotes
 
 The project includes a collection of 40 quotes, but you can tailor them to your own relationship:
 
@@ -67,7 +67,7 @@ The project includes a collection of 40 quotes, but you can tailor them to your 
 
 ---
 
-### 🖼️ 3. Change the Background Photo
+###  3. Change the Background Photo
 
 1.  Go inside assets and copy paste your new image.
 2.  Delete the existing image1.jpg and rename your new photo as image1.jpg .
@@ -75,7 +75,7 @@ The project includes a collection of 40 quotes, but you can tailor them to your 
 
 ---
 
-## 🌸 Preview of the Animation
+##  Preview of the Animation
 
 <p align="center">
 <img src="./preview/video.gif" alt="video gif">
@@ -85,9 +85,9 @@ This endless, interactive space serves as a constant reminder of your bond.
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
-I'm always happy to collaborate on creative and fun web projects! Let’s connect 👇
+I'm always happy to collaborate on creative and fun web projects! Let’s connect 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arundada9000)
@@ -108,7 +108,7 @@ _Crafted with a whole lot of feelings, and designed for endless contemplation. J
 
 ---
 
-### ⚠️ Licensing & Reuse
+### ⚠ Licensing & Reuse
 
 I hereby declare that **anyone can use this code freely** for their own personal projects. However, the following assets are **not for reuse or redistribution** in other projects:
 
@@ -121,7 +121,12 @@ I hereby declare that **anyone can use this code freely** for their own personal
 </p>
 
 <p align="center">
-  <i>© 2025 Arun Neupane — All rights reserved for images, music, and personal assets.</i>
+  <i>© 2025 Arun Neupane - All rights reserved for images, music, and personal assets.</i>
 </p>
 
-_Made with ❤️ and sculpted in digital marble. Sometimes, the most beautiful words are built, not spoken. 🏛️_
+_Made with ❤ and sculpted in digital marble. Sometimes, the most beautiful words are built, not spoken. _
+---
+
+## License
+
+This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
